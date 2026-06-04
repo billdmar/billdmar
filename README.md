@@ -1,6 +1,6 @@
 # Hi, I'm William Mar 👋
 
-Computer Science student at **The University of Texas at Austin**, building iOS apps and AI-powered tools. I like shipping polished products end-to-end — from SwiftUI interfaces to LLM integrations and cloud backends.
+Computer Engineering student with specifics in Data Science and Information Proccessing at **The University of Texas at Austin**, building iOS apps and AI-powered tools. I like shipping polished products end-to-end — from SwiftUI interfaces to LLM integrations and cloud backends.
 
 🎯 **Seeking Software Engineering internships for Fall 2026 & Spring 2027.**
 
