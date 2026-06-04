@@ -29,11 +29,5 @@ Computer Science student at **The University of Texas at Austin**, building iOS 
 
 ### 📫 Get in touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](LINKEDIN_URL_HERE)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
-
-<!--
-TODO before publishing:
-  1. Replace LINKEDIN_URL_HERE with your LinkedIn profile URL.
-  2. Replace YOUR_EMAIL_HERE with the email you want recruiters to use.
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williamdmar/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:billdmar@gmail.com)
