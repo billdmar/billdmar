@@ -35,7 +35,7 @@ Each of these ships with tests and CI; two have live demos you can click right n
 | **[Aquify ATX](https://github.com/billdmar/aquify-atx)** · [🌐 live](https://aquify-atx.vercel.app) | Full-stack map of 30+ Austin water fountains with Firebase auth, community reviews, and a climate-driven hydration recommendation engine using live weather. **150 tests, CI green.** | React · Vite · Firebase · Leaflet |
 | **[Travel AI](https://github.com/billdmar/travel-ai-tai)** · [🌐 live](https://travel-ai-tai.onrender.com) | LLM travel-itinerary generator: async REST API with a preference→prompt recommendation engine, response caching, rate limiting, and a multi-step React UI. | FastAPI · React · OpenAI · Docker |
 | **[ASL Sign-Language CNN](https://github.com/billdmar/asl-cnn-classifier)** | Real-time American Sign Language recognition across 29 classes — PyTorch CNN + MobileNetV2, OpenCV live-camera inference, and latency benchmarking. **94% test coverage.** | PyTorch · OpenCV · Python |
-| **[Synchronous FIFO (Formal Verification)](https://github.com/billdmar/sync-fifo-formal)** | A parameterizable FIFO in SystemVerilog **proven correct** with SymbiYosys (bounded model checking) — not just simulated — plus a Verilator scoreboard testbench. | SystemVerilog · SVA · SymbiYosys · Verilator |
+| **[SystemVerilog FIFO Verification Suite](https://github.com/billdmar/fifo-verification-suite)** | Sync, async (dual-clock CDC) & AXI4-Stream FIFOs **formally proven** with SymbiYosys (BMC + k-induction + liveness), Verilator-simulated to 100% coverage closure, and FPGA-characterized on ECP5 + iCE40. | SystemVerilog · SVA · SymbiYosys · Verilator · Yosys/nextpnr |
 
 <details>
 <summary><strong>More projects (iOS / Swift)</strong></summary>
